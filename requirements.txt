@@ -1,0 +1,4 @@
+smolagents[openai]
+pandas
+matplotlib
+python-dotenv
